@@ -12,13 +12,16 @@
   [
     {
       "name": "Adrien Descamps",
-      "email": "me@john-smith.com",
-      "url": "adrien.descamps@gmail.com"
+      "email": "adrien.descamps@gmail.com"
     }
   ],
-  "license": "BSD-2-Clause license",
+  "license": "BSD-2-Clause",
   "dependencies": {
     
+  },
+  "build": {
+    "includeDir": "src",
+    "srdDir": "src"
   },
   "frameworks": "Arduino",
   "platforms": "*"
