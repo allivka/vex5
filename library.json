@@ -1,6 +1,6 @@
 {
   "name": "vex5",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "!Not my library, i copied it from somewhere to distribute, check README for mor info!\n This library allows you to control the robotics servo motors that use a custom half-duplex serial protocol (only protocol 1.0 is supported). You can control TTL models directly from Arduino, without any additional hardware, using hardware or software UART. Communication speed up to 1 MBd is supported with hardware serial. The most useful functions (speed, position, wheel/joint mode) are provided via a very simple high level interface (see test_motor example), but other operations can be done using the generic read/write functions (see test_led example).",
   "keywords": "arduino, vex, vex5, motor, servo",
   "repository":
