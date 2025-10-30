@@ -24,5 +24,5 @@
     "srdDir": "src"
   },
   "frameworks": "Arduino",
-  "platforms": "*"
+  "platforms": "megaatmega2560"
 }
